@@ -1,0 +1,6 @@
+{
+  "name": "General Administration Management System (GAMS)",
+  "description": "Integrated enterprise platform for Asset, Vehicle, Maintenance, Messenger, and Overtime Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
